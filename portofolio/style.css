@@ -10,3 +10,13 @@ header {
     text-align: center;
     color: #fff;
 }
+
+@media (max-width: 767px) {
+
+    .btn-block {
+        margin-top: 20px;
+        font-size: 15px;
+    };
+
+
+}
