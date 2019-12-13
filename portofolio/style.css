@@ -18,5 +18,13 @@ header {
         font-size: 15px;
     };
 
+    .navbar {
+        width :100%;
+    
+    }
+    .container .navbar-header{
+        margin-right: 5px;
+    }
+
 
 }
