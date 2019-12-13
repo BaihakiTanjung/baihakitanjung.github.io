@@ -22,8 +22,8 @@ header {
         width :100%;
     
     }
-    .container .navbar-header{
-        margin-right: 5px;
+    html {
+        width: 101%;
     }
 
 
